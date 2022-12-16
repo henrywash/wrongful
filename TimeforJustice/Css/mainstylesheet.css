@@ -1,6 +1,9 @@
 body{
-Max-width: 1980px;
+position: none;
+Max-width: 1920px;
 Min-width: 1020px;
+Max-height: 1080px;
+Min-height: 480px;
 background-color: #33ff00;
 }
  
@@ -13,9 +16,9 @@ background-color: none;
 position: none;
 margin-top: 300px;
 margin-top: autopx;
-margin-left: 790px;
+margin-left: 660px;
 margin-left: auto;
-margin-right: 790px;
+margin-right: 660px;
 margin-right: auto;
 
  }
