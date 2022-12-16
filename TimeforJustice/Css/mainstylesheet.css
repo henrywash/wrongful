@@ -10,9 +10,9 @@ background-color: #33ff00;
  .container{
 Max-width: 600px;
 Min-width: 600px;
-Max-height: 600px;
-Min-height: 600px;
-background-color: none;
+Max-height: 400px;
+Min-height: 400px;
+background-color: #FFFF33;
 position: none;
 margin-top: 300px;
 margin-top: autopx;
