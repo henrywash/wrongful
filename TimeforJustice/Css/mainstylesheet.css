@@ -2,8 +2,8 @@ body{
 position: none;
 Max-width: 1920px;
 Min-width: 1020px;
-Max-height: 700px;
-Min-height: 480px;
+Max-height: 0px;
+Min-height: 0px;
 background-color: #33ff00;
 }
  
